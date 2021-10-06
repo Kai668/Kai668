@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kai
 - 👀 I’m interested in different types of music
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning how to code a Pong game
 - 💞️ I’m looking to collaborate on making games
 - 📫 How to reach me: 20684@my4county.net
 
